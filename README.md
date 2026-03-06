@@ -1,6 +1,8 @@
 ## Design and simulation of a 3-DOF robotic arm using SolidWorks and MATLAB Simulink.
 Design a 3-DOF robot mechanical model in SolidWorks and export it to Simscape in MATLAB for kinematic simulation and control using MATLAB Simulink.
 
+My Project: https://youtu.be/MUgAUkKH5pU
+
 ## Overview
 This project focuses on the design, modeling, and simulation of a 3 Degrees of Freedom (3-DOF) robotic arm.  
 The mechanical model of the robot was designed in SolidWorks and then integrated into MATLAB/Simulink using Simscape Multibody for dynamic simulation.
